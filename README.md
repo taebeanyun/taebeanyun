@@ -38,7 +38,7 @@
   
   <br><br>
 
-  <a href="https://school.programmers.co.kr/my-page">
+  <a href="https://school.programmers.co.kr/learn/dashboard">
     <img src="https://img.shields.io/badge/Programmers-Level%20Up-1E2A3C?style=for-the-badge&logo=Programmers&logoColor=white"/>
   </a>
   
