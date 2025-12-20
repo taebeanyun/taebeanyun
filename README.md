@@ -1,29 +1,25 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hello,%20World!&fontSize=70&animation=fadeIn" width="100%"/>
-</div>
-
-<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=003366&text=Taebean's%20GitHub%20&height=150&fontSize=60&descAlignY=75&descAlign=60" alt="TaeBean's GitHub">
   
-  ## 👋 Hi there, I'm @taebeanyun
-  
-  ### 🚀 About Me
-  Note: 학생 개발자로서 성장하고 있습니다.<br>
-  Java와 Spring Framework를 통해 효율적인 백엔드 시스템 구축을 목표로 하고 있습니다.
+  ### 🚀 About Me 🚀
+단순히 기능을 구현하는 것을 넘어, **'왜?'**를 고민하는 백엔드 개발자입니다.<br>
+Java와 Spring의 내부 동작 원리를 깊이 있게 학습하며, 유지보수하기 좋은 코드를 작성하기 위해 노력합니다.
 
   <br>
-
- <br>
-
-  <a href="mailto:yuntb0115@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/>
-  </a>
-  <a href="https://velog.io/@dbsxoqls0115">
-    <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/>
-  </a>
-
-  ---
+  <br>
   
-  ### 🛠️ Tech Stack
+  
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me 🧑‍💻 </h2>
+  
+  <a href="mailto:yuntb0115@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="https://velog.io/@dbsxoqls0115"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+
+
+  <br>
+  <br>
+  
+  ### 🛠️ Tech Stack 🛠️
   
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
@@ -37,6 +33,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 
+  
 </div>
 
 <br>
@@ -69,4 +66,3 @@
 <div align="center">
   <img src="https://github.com/taebeanyun/taebeanyun/blob/output/github-contribution-grid-snake.svg" width="100%"/>
 </div>
-
