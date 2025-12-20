@@ -9,7 +9,18 @@
   ### 🚀 About Me
   Note: 학생 개발자로서 성장하고 있습니다.<br>
   Java와 Spring Framework를 통해 효율적인 백엔드 시스템 구축을 목표로 하고 있습니다.
-  
+
+  <br>
+
+ <br>
+
+  <a href="mailto:yuntb0115@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/>
+  </a>
+  <a href="https://velog.io/@여기에_벨로그_아이디">
+    <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/>
+  </a>
+
   ---
   
   ### 🛠️ Tech Stack
