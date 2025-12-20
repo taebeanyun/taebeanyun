@@ -8,7 +8,7 @@
   
   ### 🚀 About Me
   Note: 학생 개발자로서 성장하고 있습니다.<br>
-  Java와 Spring Framework를 주로 공부하며, 효율적인 백엔드 시스템 구축에 관심이 많습니다.
+  Java와 Spring Framework를 통해 효율적인 백엔드 시스템 구축을 목표로 하고 있습니다.
   
   ---
   
@@ -38,7 +38,7 @@
   
   <br><br>
 
-  <a href="https://school.programmers.co.kr/learn/courses/30/lessons/yuntb0115@gmail.com">
+  <a href="https://school.programmers.co.kr/my-page">
     <img src="https://img.shields.io/badge/Programmers-Level%20Up-1E2A3C?style=for-the-badge&logo=Programmers&logoColor=white"/>
   </a>
   
