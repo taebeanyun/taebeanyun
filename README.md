@@ -17,7 +17,7 @@
   <a href="mailto:yuntb0115@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/>
   </a>
-  <a href="https://velog.io/@여기에_벨로그_아이디">
+  <a href="https://velog.io/@dbsxoqls0115">
     <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/>
   </a>
 
