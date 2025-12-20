@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=003366&text=Taebean's%20GitHub%20&height=150&fontSize=60&descAlignY=75&descAlign=60" alt="TaeBean's GitHub">
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=003366&text=Taebean's%20GitHub%20&height=150&fontSize=60&descAlignY=75&descAlign=60&animation=fadeIn" alt="TaeBean's GitHub">
   
   ### 🚀 About Me 🚀
 단순히 기능을 구현하는 것을 넘어, **'왜?'**를 고민하는 백엔드 개발자입니다.<br>
