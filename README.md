@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=003366&text=Taebean's%20GitHub%20&height=150&fontSize=60&descAlignY=75&descAlign=60&animation=fadeIn" alt="TaeBean's GitHub">
   
-  ### 🚀 About Me 🚀
+  ### 🚀 About Me 
 단순히 기능을 구현하는 것을 넘어, <b>'why?'</b>를 고민하는 백엔드 개발자입니다.<br>
 Java와 Spring의 내부 동작 원리를 깊이 있게 학습하며, 유지보수하기 좋은 코드를 작성하기 위해 노력합니다.
 
@@ -19,7 +19,7 @@ Java와 Spring의 내부 동작 원리를 깊이 있게 학습하며, 유지보�
   <br>
   <br>
   
-  ### 🛠️ Tech Stack 🛠️
+  ### 🛠️ Tech Stack 
   
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
